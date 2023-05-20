@@ -1,0 +1,15 @@
+D:\обучение\дата саенс\example\example_1\bin\Debug\net6.0\example_1.exe
+D:\обучение\дата саенс\example\example_1\bin\Debug\net6.0\example_1.deps.json
+D:\обучение\дата саенс\example\example_1\bin\Debug\net6.0\example_1.runtimeconfig.json
+D:\обучение\дата саенс\example\example_1\bin\Debug\net6.0\example_1.dll
+D:\обучение\дата саенс\example\example_1\bin\Debug\net6.0\example_1.pdb
+D:\обучение\дата саенс\example\example_1\obj\Debug\net6.0\example_1.csproj.AssemblyReference.cache
+D:\обучение\дата саенс\example\example_1\obj\Debug\net6.0\example_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\обучение\дата саенс\example\example_1\obj\Debug\net6.0\example_1.AssemblyInfoInputs.cache
+D:\обучение\дата саенс\example\example_1\obj\Debug\net6.0\example_1.AssemblyInfo.cs
+D:\обучение\дата саенс\example\example_1\obj\Debug\net6.0\example_1.csproj.CoreCompileInputs.cache
+D:\обучение\дата саенс\example\example_1\obj\Debug\net6.0\example_1.dll
+D:\обучение\дата саенс\example\example_1\obj\Debug\net6.0\refint\example_1.dll
+D:\обучение\дата саенс\example\example_1\obj\Debug\net6.0\example_1.pdb
+D:\обучение\дата саенс\example\example_1\obj\Debug\net6.0\example_1.genruntimeconfig.cache
+D:\обучение\дата саенс\example\example_1\obj\Debug\net6.0\ref\example_1.dll
